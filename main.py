@@ -1,4 +1,3 @@
-from Note import Note
 from NoteManager import NoteManager
 
 
